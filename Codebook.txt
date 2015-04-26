@@ -1,0 +1,21 @@
+This codebook contains information on the different variables in the final_dataset.txt file created as part of Step 5 of the assignment.
+
+final_dataset.txt has following variables/columns:
+
+Subject
+ • this variable tells the subject from the training of test dataset who participated in the experiment. It can have values ranging from 1 to 30
+ 
+Activity
+• this varialbe tells the activity for which the data was gathered. It can have the following values:
+  • walking
+  • walking_upstairs
+  • walking_downstairs
+  • standing
+  • sitting
+  • laying
+  
+Variable
+• This variable tells the name of parameter/value that was collected for each participant/subject 
+
+Value
+• This variable tells the mean of each varaible
